@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "86788140562",
+    "project_id": "mobileverification-35220",
+    "storage_bucket": "mobileverification-35220.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:86788140562:android:013f8e950b9958904532cb",
+        "android_client_info": {
+          "package_name": "io.cordova.hellocordova"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "86788140562-qoon2tv8i2k9r4e0o85h9jnt454u0dao.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyBbNMq19pMEIz2ZBiwl_rodZb5r2Hys4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "86788140562-qoon2tv8i2k9r4e0o85h9jnt454u0dao.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
